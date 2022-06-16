@@ -46,9 +46,9 @@ The circuit is designed with multiple membership proofs for merkle tree based ac
 
 The submission should not modify the above parameters. This design mimics the real world use case of zk-rollups.
 
-  
+Submissions must include documentation, in English, sufficient to explain the optimization approach.
 
-Submissions must include documentation, in English, sufficient to explain the optimization approach
+⚠️ See more instructions and FAQ regarding submission [here](https://github.com/EspressoSystems/jellyfish/tree/turbo-plonk/zprice). Remember to always use [`turbo-plonk` branch of Jellyfish](https://github.com/EspressoSystems/jellyfish/tree/turbo-plonk) as your starting point. (`main` branch contains a lot more extensions and features of the proof system that you won't need in this competition.)
 
 ## Timeline
 
